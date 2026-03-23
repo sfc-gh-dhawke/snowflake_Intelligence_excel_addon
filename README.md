@@ -30,7 +30,7 @@ An Excel Add-in (.xlam) that lets you chat with a Snowflake Cortex Agent directl
 
 ## Quick Start
 
-See [SETUP.md](xlam_source/SETUP.md) for installation and configuration instructions.
+See [SETUP.md](/SETUP.md) for installation and configuration instructions.
 
 ## Project Structure
 
